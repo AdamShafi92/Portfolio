@@ -4,6 +4,7 @@
 * Performed lemmatisation to group together inflected words
 * Transformed the data into the correct format for NLTK (Natural Language Toolkit)
 * Optimised mutliple skLearn models including Logistic Regression, Random Forest Classification to reach the best model
+
 ![](/images/SPY Sentiment and Tweets Graph.png)
 
 
