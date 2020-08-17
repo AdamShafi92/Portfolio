@@ -1,4 +1,10 @@
-## [Project 1: Twitter Sentiment Analysis on Tweets featuring #stocks](https://github.com/AdamShafi92/Twitter-Sentiment-Analysis)
+### Data Science Projects
+
+
+
+
+
+### [Project 1: Twitter Sentiment Analysis on Tweets featuring #stocks](https://github.com/AdamShafi92/Twitter-Sentiment-Analysis)
 * Retrieved data using the Twitter API and labelled tweets 1000 manually.
 * Cleaned the data to remove special characters and unnessary words
 * Performed lemmatisation to group together inflected words
