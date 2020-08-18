@@ -12,5 +12,5 @@
 * Optimised mutliple skLearn models including Logistic Regression, Random Forest Classification to reach the best model
 * This could be used as one indicator in a larger dataset aimed at predicting stock prices, or looking at the influence of Twitter on stock prices
 
-![](./images/SPY_sentiment.PNG)
+![](./images/SPY_sentiment_2.PNG)
 
