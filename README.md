@@ -14,3 +14,10 @@
 
 ![](./images/SPY_sentiment_2.PNG)
 
+### [Project 2: Image Classification of Herbs](https://github.com/AdamShafi92/Herb-Classification)
+* The aim of this was to produce a quick image classification tool using the fastai toolkit
+* Downloaded 2000 images of herbs using the bing API
+* Used fastai to preprocess images 
+* Trained a Resnet classifier and removed incorrectly labelled images
+* Deployed using Voila and Binder
+* https://bndr.it/rykge
