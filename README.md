@@ -23,7 +23,7 @@
 * https://bndr.it/rykge
 
 ### [Data Science Salary Predictor](https://github.com/AdamShafi92/ds-salary-predictor)
-* Scaraped data from Indeed.co.uk for 7000+ data related jobs
+* Scraped data from Indeed.co.uk for 7000+ data related jobs
 * Scraped individual company information and full job descriptions
 * Cleaned data for use in modelling
 * Vectorised description and job title for use in Natural Language Processing
