@@ -1,7 +1,18 @@
 ### Data Science Projects
 
+### [Data Science Salary Predictor](https://github.com/AdamShafi92/ds-salary-predictor)
+* Webapp here: Created using Streamlit and SHAP https://data-salary-predictor.herokuapp.com/
+* Scraped data from Indeed.co.uk for 7000+ data related jobs
+* Scraped individual company information and full job descriptions. Cleaned using Pandas. Text data cleaned and vectorised
+* Trained and optimised an XGBoost model to achieve £8.8k MAE.
+* Used SHAP to create a highly interpetable framework for making predictions.
+* Deployed in a Webapp, created a container version using Docker and Flask that could be deployed on AWS.
 
 
+### [UFO Sightings Dashboard](https://public.tableau.com/profile/adam.shafi6605#!/vizhome/UFOSightingsDashboard_16041450574280/Dashboard1)
+* Dashboard based of a .csv UFO dataset
+* Uses appropariate visualisations
+* Makes use of Tableaus groups, parameters and filters.
 
 
 ### [Twitter Sentiment Analysis on Tweets featuring #stocks](https://github.com/AdamShafi92/Twitter-Sentiment-Analysis)
@@ -22,16 +33,6 @@
 * Deployed using Voila and Binder
 * https://bndr.it/rykge
 
-### [Data Science Salary Predictor](https://github.com/AdamShafi92/ds-salary-predictor)
-* Scraped data from Indeed.co.uk for 7000+ data related jobs
-* Scraped individual company information and full job descriptions
-* Cleaned data for use in modelling
-* Vectorised description and job title for use in Natural Language Processing
-* Created a classification model using job title, location, company information and full description
-* Developed Logistic Regression, Random Forest and XGBoost models
-* Logistic Regression deployed using Flask: https://ds-sal-2.herokuapp.com/
 
-### [UFO Sightings Dashboard](https://public.tableau.com/profile/adam.shafi6605#!/vizhome/UFOSightingsDashboard_16041450574280/Dashboard1)
-* Dashboard based of a .csv UFO dataset
-* Uses appropariate visualisations
-* Makes use of Tableaus groups, parameters and filters.
+
+
