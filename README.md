@@ -1,7 +1,7 @@
 ### Data Science Projects
 
 ### [Data Science Salary Predictor](https://github.com/AdamShafi92/ds-salary-predictor)
-* Webapp here: Created using Streamlit and SHAP https://data-salary-predictor.herokuapp.com/
+* Webapp here: https://data-salary-predictor.herokuapp.com/ created using Streamlit and SHAP.
 * Scraped data from Indeed.co.uk for 7000+ data related jobs
 * Scraped individual company information and full job descriptions. Cleaned using Pandas. Text data cleaned and vectorised
 * Trained and optimised an XGBoost model to achieve £8.8k MAE.
