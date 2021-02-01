@@ -4,6 +4,7 @@
 * Webapp here: https://data-salary-predictor.herokuapp.com/ created using Streamlit and SHAP.
 * Scraped data from Indeed.co.uk for 7000+ data related jobs
 * Scraped individual company information and full job descriptions. Cleaned using Pandas. Text data cleaned and vectorised
+* EDA write ups: https://adam-shafi.medium.com/soft-skills-1999f0f85e70, https://adam-shafi.medium.com/tech-skills-2021-5805848851c6 
 * Trained and optimised an XGBoost model to achieve £8.8k MAE.
 * Used SHAP to create a highly interpetable framework for making predictions.
 * Deployed in a Webapp, created a container version using Docker and Flask that could be deployed on AWS.
